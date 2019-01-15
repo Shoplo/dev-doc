@@ -1,0 +1,13 @@
+{
+  "config": {
+    "title": "Dev Doc",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {}
+  },
+  "entries": {}
+}
