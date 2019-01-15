@@ -1,11 +1,10 @@
 {
   "name": "dev-doc",
   "scripts": {
-    "docz:dev": "docz dev",
-    "docz:build": "docz build"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "docz": "^0.13.7",
-    "docz-theme-default": "^0.13.7"
+    "vuepress": "^0.14.8"
   }
 }
