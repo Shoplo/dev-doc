@@ -1,11 +1,15 @@
 {
-  "app.js": "/dev-doc/static/js/app.dbd9715f.js",
-  "app.js.map": "/dev-doc/static/js/app.b64830ffb2db28500ab4.js.map",
-  "runtime~app.js": "/dev-doc/static/js/runtime~app.b64830ffb2db28500ab4.js",
-  "runtime~app.js.map": "/dev-doc/static/js/runtime~app.b64830ffb2db28500ab4.js.map",
-  "vendors.js": "/dev-doc/static/js/vendors.fceea60b.js",
-  "vendors.js.map": "/dev-doc/static/js/vendors.b64830ffb2db28500ab4.js.map",
-  "static/js/3.f2dff5c3.js": "/dev-doc/static/js/3.f2dff5c3.js",
-  "static/js/3.b64830ffb2db28500ab4.js.map": "/dev-doc/static/js/3.b64830ffb2db28500ab4.js.map",
+  "app.js": "/dev-doc/static/js/app.e6e1b902.js",
+  "app.js.map": "/dev-doc/static/js/app.091d75a104472526410c.js.map",
+  "pages-best-practicies.js": "/dev-doc/static/js/pages-best-practicies.250927dc.js",
+  "pages-best-practicies.js.map": "/dev-doc/static/js/pages-best-practicies.091d75a104472526410c.js.map",
+  "pages-guidelines.js": "/dev-doc/static/js/pages-guidelines.4ecf24ad.js",
+  "pages-guidelines.js.map": "/dev-doc/static/js/pages-guidelines.091d75a104472526410c.js.map",
+  "runtime~app.js": "/dev-doc/static/js/runtime~app.091d75a104472526410c.js",
+  "runtime~app.js.map": "/dev-doc/static/js/runtime~app.091d75a104472526410c.js.map",
+  "vendors.js": "/dev-doc/static/js/vendors.2c724bd8.js",
+  "vendors.js.map": "/dev-doc/static/js/vendors.091d75a104472526410c.js.map",
+  "static/js/5.a1576be6.js": "/dev-doc/static/js/5.a1576be6.js",
+  "static/js/5.091d75a104472526410c.js.map": "/dev-doc/static/js/5.091d75a104472526410c.js.map",
   "index.html": "/dev-doc/index.html"
 }
