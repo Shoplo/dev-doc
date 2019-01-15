@@ -7,7 +7,44 @@
     "repository": null,
     "native": false,
     "codeSandbox": true,
-    "themeConfig": {}
+    "themeConfig": {},
+    "base": "/dev-doc/",
+    "dest": "docs"
   },
-  "entries": {}
+  "entries": {
+    "pages/guidelines.mdx": {
+      "name": "Guidelines",
+      "menu": "Guidelines",
+      "id": "90539f4a0cafdcfedc05d62cea7101fc",
+      "filepath": "pages/guidelines.mdx",
+      "link": null,
+      "slug": "pages-guidelines",
+      "route": "/pages-guidelines",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "guidelines",
+          "value": "Guidelines"
+        }
+      ]
+    },
+    "pages/best_practicies.mdx": {
+      "name": "Best practicies",
+      "menu": "Guidelines",
+      "id": "54b92cd7c87cc981b9a8151a65f0ed5f",
+      "filepath": "pages/best_practicies.mdx",
+      "link": null,
+      "slug": "pages-best-practicies",
+      "route": "/pages-best-practicies",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "guidelines",
+          "value": "Guidelines"
+        }
+      ]
+    }
+  }
 }
